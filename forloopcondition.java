@@ -1,14 +1,12 @@
-package assignment;
+package day5;
 
 public class forloopcondition {
-
 	public static void main(String[] args)
 	{
-		for(int i=146;i<=150;i++)
+		for(int i=1;i<=5;i++)
 		{
-			System.out.println(i);
+			System.out.println("hello");
 		}
 	}
+
 }
-
-
